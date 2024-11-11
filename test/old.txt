@@ -1,0 +1,99 @@
+Starting ntuplizer for every sample in input
+Obtaining efficiency ntuples for rossin-step2-CMSSW_14_2_0_pre1-Coin1_Q1-noAgeing-14Oct24 with quality type All
+[DTNtupleTPGSimAnalyzer::Loop] processed : 0 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 100 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 200 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 300 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 400 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 500 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 600 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 700 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 800 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 900 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 1000 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 1100 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 1200 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 1300 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 1400 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 1500 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 1600 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 1700 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 1800 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 1900 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 2000 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 2100 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 2200 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 2300 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 2400 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 2500 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 2600 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 2700 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 2800 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 2900 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 3000 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 3100 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 3200 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 3300 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 3400 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 3500 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 3600 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 3700 entries
+Obtaining efficiency ntuples for rossin-step2-CMSSW_14_2_0_pre1-Coin1_Q1-noAgeing-14Oct24 with quality type nothreehits
+[DTNtupleTPGSimAnalyzer::Loop] processed : 0 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 100 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 200 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 300 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 400 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 500 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 600 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 700 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 800 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 900 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 1000 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 1100 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 1200 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 1300 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 1400 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 1500 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 1600 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 1700 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 1800 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 1900 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 2000 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 2100 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 2200 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 2300 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 2400 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 2500 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 2600 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 2700 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 2800 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 2900 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 3000 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 3100 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 3200 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 3300 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 3400 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 3500 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 3600 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 3700 entries
+Obtaining efficiency ntuples for rossin-step2-CMSSW_14_2_0_pre1-Coin1_Q1-noAgeing-14Oct24 with quality type legacy
+[DTNtupleTPGSimAnalyzer::Loop] processed : 0 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 100 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 200 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 300 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 400 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 500 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 600 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 700 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 800 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 900 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 1000 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 1100 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 1200 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 1300 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 1400 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 1500 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 1600 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 1700 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 1800 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 1900 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 2000 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 2100 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 2200 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 2300 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 2400 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 2500 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 2600 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 2700 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 2800 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 2900 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 3000 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 3100 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 3200 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 3300 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 3400 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 3500 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 3600 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 3700 entries
+Obtaining efficiency ntuples for rossin-step2-CMSSW_14_2_0_pre1-Coin1_Q1-noAgeing-14Oct24 with quality type correlated
+[DTNtupleTPGSimAnalyzer::Loop] processed : 0 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 100 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 200 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 300 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 400 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 500 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 600 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 700 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 800 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 900 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 1000 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 1100 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 1200 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 1300 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 1400 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 1500 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 1600 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 1700 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 1800 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 1900 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 2000 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 2100 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 2200 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 2300 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 2400 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 2500 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 2600 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 2700 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 2800 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 2900 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 3000 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 3100 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 3200 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 3300 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 3400 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 3500 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 3600 entries[DTNtupleTPGSimAnalyzer::Loop] processed : 3700 entries
+Obtaining intermediate plot for algo  AM
+All	Wh-2	St1	3088.0	3092.0	0.998706338939
+All	Wh-1	St1	4120.0	4123.0	0.999272374485
+All	Wh0	St1	4832.0	4834.0	0.999586263964
+All	Wh1	St1	4175.0	4176.0	0.999760536398
+All	Wh2	St1	3088.0	3102.0	0.995486782721
+All	Wh-2	St2	2859.0	2864.0	0.998254189944
+All	Wh-1	St2	3617.0	3620.0	0.999171270718
+All	Wh0	St2	4166.0	4166.0	1.0
+All	Wh1	St2	3528.0	3529.0	0.999716633607
+All	Wh2	St2	2805.0	2807.0	0.999287495547
+All	Wh-2	St3	2632.0	2634.0	0.999240698557
+All	Wh-1	St3	3059.0	3063.0	0.998694090761
+All	Wh0	St3	3411.0	3411.0	1.0
+All	Wh1	St3	3055.0	3059.0	0.998692383132
+All	Wh2	St3	2560.0	2562.0	0.999219359875
+All	Wh-2	St4	2940.0	2947.0	0.997624703088
+All	Wh-1	St4	3166.0	3172.0	0.998108448928
+All	Wh0	St4	3416.0	3419.0	0.999122550453
+All	Wh1	St4	3136.0	3144.0	0.997455470738
+All	Wh2	St4	2918.0	2928.0	0.996584699454
+Obtaining intermediate plot for algo  AM
+nothreehits	Wh-2	St1	3079.0	3092.0	0.995795601552
+nothreehits	Wh-1	St1	4113.0	4123.0	0.997574581615
+nothreehits	Wh0	St1	4827.0	4834.0	0.998551923873
+nothreehits	Wh1	St1	4170.0	4176.0	0.998563218391
+nothreehits	Wh2	St1	3081.0	3102.0	0.993230174081
+nothreehits	Wh-2	St2	2848.0	2864.0	0.994413407821
+nothreehits	Wh-1	St2	3610.0	3620.0	0.997237569061
+nothreehits	Wh0	St2	4158.0	4166.0	0.998079692751
+nothreehits	Wh1	St2	3523.0	3529.0	0.998299801644
+nothreehits	Wh2	St2	2798.0	2807.0	0.996793729961
+nothreehits	Wh-2	St3	2625.0	2634.0	0.996583143508
+nothreehits	Wh-1	St3	3050.0	3063.0	0.995755794972
+nothreehits	Wh0	St3	3405.0	3411.0	0.998240985048
+nothreehits	Wh1	St3	3045.0	3059.0	0.995423340961
+nothreehits	Wh2	St3	2554.0	2562.0	0.9968774395
+nothreehits	Wh-2	St4	2921.0	2947.0	0.991177468612
+nothreehits	Wh-1	St4	3155.0	3172.0	0.994640605296
+nothreehits	Wh0	St4	3412.0	3419.0	0.997952617724
+nothreehits	Wh1	St4	3133.0	3144.0	0.996501272265
+nothreehits	Wh2	St4	2908.0	2928.0	0.993169398907
+Obtaining intermediate plot for algo  AM
+legacy	Wh-2	St1	3070.0	3092.0	0.992884864166
+legacy	Wh-1	St1	4107.0	4123.0	0.996119330585
+legacy	Wh0	St1	4806.0	4834.0	0.99420769549
+legacy	Wh1	St1	4156.0	4176.0	0.995210727969
+legacy	Wh2	St1	3073.0	3102.0	0.990651192779
+legacy	Wh-2	St2	2827.0	2864.0	0.987081005587
+legacy	Wh-1	St2	3577.0	3620.0	0.988121546961
+legacy	Wh0	St2	4138.0	4166.0	0.993278924628
+legacy	Wh1	St2	3501.0	3529.0	0.992065741003
+legacy	Wh2	St2	2779.0	2807.0	0.990024937656
+legacy	Wh-2	St3	2612.0	2634.0	0.991647684131
+legacy	Wh-1	St3	3032.0	3063.0	0.989879203395
+legacy	Wh0	St3	3392.0	3411.0	0.994429785987
+legacy	Wh1	St3	3029.0	3059.0	0.990192873488
+legacy	Wh2	St3	2538.0	2562.0	0.990632318501
+legacy	Wh-2	St4	2898.0	2947.0	0.983372921615
+legacy	Wh-1	St4	3133.0	3172.0	0.987704918033
+legacy	Wh0	St4	3399.0	3419.0	0.994150336356
+legacy	Wh1	St4	3117.0	3144.0	0.99141221374
+legacy	Wh2	St4	2893.0	2928.0	0.988046448087
+Obtaining intermediate plot for algo  AM
+correlated	Wh-2	St1	2625.0	3092.0	0.848965071151
+correlated	Wh-1	St1	3735.0	4123.0	0.905893766675
+correlated	Wh0	St1	4469.0	4834.0	0.924493173355
+correlated	Wh1	St1	3788.0	4176.0	0.907088122605
+correlated	Wh2	St1	2644.0	3102.0	0.852353320438
+correlated	Wh-2	St2	2357.0	2864.0	0.822974860335
+correlated	Wh-1	St2	3194.0	3620.0	0.882320441989
+correlated	Wh0	St2	3827.0	4166.0	0.918626980317
+correlated	Wh1	St2	3117.0	3529.0	0.883253046189
+correlated	Wh2	St2	2361.0	2807.0	0.841111506947
+correlated	Wh-2	St3	2222.0	2634.0	0.843583902809
+correlated	Wh-1	St3	2713.0	3063.0	0.885732941561
+correlated	Wh0	St3	3098.0	3411.0	0.908238053357
+correlated	Wh1	St3	2756.0	3059.0	0.900948022229
+correlated	Wh2	St3	2192.0	2562.0	0.855581576893
+correlated	Wh-2	St4	2387.0	2947.0	0.809976247031
+correlated	Wh-1	St4	2798.0	3172.0	0.88209331652
+correlated	Wh0	St4	3172.0	3419.0	0.927756653992
+correlated	Wh1	St4	2799.0	3144.0	0.890267175573
+correlated	Wh2	St4	2405.0	2928.0	0.821379781421
+
+Combining and saving
+
+Combining list of plots
+Combining list of plots
+[1;32m[92mWarning!: If you run over DM samples, you may consider matching with seg_dirGlb instead of seg_posGlb avoiding eta matching[0m
